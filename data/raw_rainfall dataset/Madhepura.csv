@@ -1,0 +1,198 @@
+Year-Month,Rainfall (mm),Flood Risk,Sub_District
+2021-06,30.5,Safe,Madhepura
+2021-07,67.0,Safe,Madhepura
+2021-08,60.0,Safe,Madhepura
+2021-09,15.5,Safe,Madhepura
+2021-10,10.0,Safe,Madhepura
+2021-11,0.0,Safe,Madhepura
+2021-12,0.0,Safe,Madhepura
+2022-01,0.0,Safe,Madhepura
+2022-02,0.0,Safe,Madhepura
+2022-03,0.0,Safe,Madhepura
+2022-04,1.5,Safe,Madhepura
+2022-05,4.0,Safe,Madhepura
+2022-06,18.5,Safe,Madhepura
+2022-07,14.5,Safe,Madhepura
+2022-08,26.0,Safe,Madhepura
+2022-09,61.0,Safe,Madhepura
+2022-10,6.5,Safe,Madhepura
+2022-11,0.0,Safe,Madhepura
+2022-12,0.0,Safe,Madhepura
+2023-01,0.0,Safe,Madhepura
+2023-02,0.0,Safe,Madhepura
+2023-03,6.0,Safe,Madhepura
+2023-04,0.0,Safe,Madhepura
+2023-05,0.0,Safe,Madhepura
+2023-06,2.0,Safe,Madhepura
+2023-07,1.0,Safe,Madhepura
+2023-08,1.0,Safe,Madhepura
+2023-09,0.5,Safe,Madhepura
+2023-10,0.5,Safe,Madhepura
+2023-11,0.0,Safe,Madhepura
+2023-12,0.0,Safe,Madhepura
+2024-01,0.0,Safe,Madhepura
+2024-02,0.0,Safe,Madhepura
+2024-03,0.0,Safe,Madhepura
+2024-04,0.0,Safe,Madhepura
+2024-05,0.0,Safe,Madhepura
+2024-06,1.5,Safe,Madhepura
+2024-07,0.5,Safe,Madhepura
+2024-08,1.5,Safe,Madhepura
+2024-09,9.5,Safe,Madhepura
+2024-10,0.0,Safe,Madhepura
+2021-06,207.5,WARNING,Chausa
+2021-07,338.0,DANGER,Chausa
+2021-08,187.5,Safe,Chausa
+2021-09,81.5,Safe,Chausa
+2021-10,281.5,WARNING,Chausa
+2022-03,0.0,Safe,Chausa
+2022-04,19.5,Safe,Chausa
+2022-05,71.0,Safe,Chausa
+2022-06,3.5,Safe,Chausa
+2022-07,45.5,Safe,Chausa
+2022-08,206.5,WARNING,Chausa
+2022-09,105.0,Safe,Chausa
+2022-10,1.0,Safe,Chausa
+2022-11,2.0,Safe,Chausa
+2022-12,0.0,Safe,Chausa
+2023-01,0.0,Safe,Chausa
+2023-02,0.0,Safe,Chausa
+2023-03,0.0,Safe,Chausa
+2023-04,0.0,Safe,Chausa
+2023-05,0.5,Safe,Chausa
+2023-06,1.0,Safe,Chausa
+2023-07,1.0,Safe,Chausa
+2023-08,1.0,Safe,Chausa
+2023-09,0.0,Safe,Chausa
+2023-10,1.0,Safe,Chausa
+2023-11,0.0,Safe,Chausa
+2023-12,0.0,Safe,Chausa
+2024-03,0.0,Safe,Chausa
+2024-04,0.0,Safe,Chausa
+2024-05,0.0,Safe,Chausa
+2024-06,0.0,Safe,Chausa
+2024-07,0.0,Safe,Chausa
+2024-08,0.0,Safe,Chausa
+2024-09,0.5,Safe,Chausa
+2024-10,0.0,Safe,Chausa
+2021-06,168.0,Safe,Kumarkhand
+2021-07,229.5,WARNING,Kumarkhand
+2021-08,339.5,DANGER,Kumarkhand
+2021-09,68.5,Safe,Kumarkhand
+2021-10,213.5,WARNING,Kumarkhand
+2021-11,0.0,Safe,Kumarkhand
+2021-12,7.0,Safe,Kumarkhand
+2022-01,34.5,Safe,Kumarkhand
+2022-02,0.0,Safe,Kumarkhand
+2022-03,0.0,Safe,Kumarkhand
+2022-04,11.5,Safe,Kumarkhand
+2022-05,111.0,Safe,Kumarkhand
+2022-06,266.0,WARNING,Kumarkhand
+2022-07,69.5,Safe,Kumarkhand
+2022-08,115.0,Safe,Kumarkhand
+2022-09,19.0,Safe,Kumarkhand
+2022-10,88.0,Safe,Kumarkhand
+2022-11,0.0,Safe,Kumarkhand
+2022-12,0.0,Safe,Kumarkhand
+2023-01,0.0,Safe,Kumarkhand
+2023-02,0.0,Safe,Kumarkhand
+2023-03,15.0,Safe,Kumarkhand
+2023-04,0.0,Safe,Kumarkhand
+2023-05,0.0,Safe,Kumarkhand
+2023-06,3.5,Safe,Kumarkhand
+2023-07,0.5,Safe,Kumarkhand
+2023-08,1.0,Safe,Kumarkhand
+2023-09,0.5,Safe,Kumarkhand
+2023-10,0.5,Safe,Kumarkhand
+2023-11,0.0,Safe,Kumarkhand
+2023-12,0.0,Safe,Kumarkhand
+2024-01,0.0,Safe,Kumarkhand
+2024-02,0.0,Safe,Kumarkhand
+2024-03,0.0,Safe,Kumarkhand
+2024-04,0.0,Safe,Kumarkhand
+2024-05,0.0,Safe,Kumarkhand
+2024-06,0.5,Safe,Kumarkhand
+2024-07,0.0,Safe,Kumarkhand
+2024-08,0.0,Safe,Kumarkhand
+2024-09,0.0,Safe,Kumarkhand
+2024-10,0.0,Safe,Kumarkhand
+2021-06,234.5,WARNING,Murliganj
+2021-07,240.0,WARNING,Murliganj
+2021-08,424.5,DANGER,Murliganj
+2021-09,73.0,Safe,Murliganj
+2021-10,201.0,WARNING,Murliganj
+2021-11,0.0,Safe,Murliganj
+2021-12,18.0,Safe,Murliganj
+2022-01,5.0,Safe,Murliganj
+2022-02,39.5,Safe,Murliganj
+2022-03,0.0,Safe,Murliganj
+2022-04,27.5,Safe,Murliganj
+2022-05,106.0,Safe,Murliganj
+2022-06,149.5,Safe,Murliganj
+2022-07,50.5,Safe,Murliganj
+2022-08,172.5,Safe,Murliganj
+2022-09,159.0,Safe,Murliganj
+2022-10,30.5,Safe,Murliganj
+2022-11,0.0,Safe,Murliganj
+2022-12,0.0,Safe,Murliganj
+2023-01,0.5,Safe,Murliganj
+2023-02,0.0,Safe,Murliganj
+2023-03,0.0,Safe,Murliganj
+2023-04,0.0,Safe,Murliganj
+2023-05,0.0,Safe,Murliganj
+2023-06,0.5,Safe,Murliganj
+2023-07,0.0,Safe,Murliganj
+2023-08,5.5,Safe,Murliganj
+2023-09,0.5,Safe,Murliganj
+2023-10,0.0,Safe,Murliganj
+2023-11,0.0,Safe,Murliganj
+2024-02,0.0,Safe,Murliganj
+2024-03,0.0,Safe,Murliganj
+2024-04,0.0,Safe,Murliganj
+2024-05,0.5,Safe,Murliganj
+2024-06,0.0,Safe,Murliganj
+2024-07,1.0,Safe,Murliganj
+2024-08,0.0,Safe,Murliganj
+2024-09,3.5,Safe,Murliganj
+2024-10,0.5,Safe,Murliganj
+2021-06,159.5,Safe,Uda kishanganj
+2021-07,238.0,WARNING,Uda kishanganj
+2021-08,203.0,WARNING,Uda kishanganj
+2021-09,122.0,Safe,Uda kishanganj
+2021-10,220.5,WARNING,Uda kishanganj
+2021-11,0.0,Safe,Uda kishanganj
+2021-12,0.0,Safe,Uda kishanganj
+2022-01,0.0,Safe,Uda kishanganj
+2022-02,0.0,Safe,Uda kishanganj
+2022-03,0.0,Safe,Uda kishanganj
+2022-04,12.5,Safe,Uda kishanganj
+2022-05,150.5,Safe,Uda kishanganj
+2022-06,80.0,Safe,Uda kishanganj
+2022-07,49.0,Safe,Uda kishanganj
+2022-08,91.5,Safe,Uda kishanganj
+2022-09,135.0,Safe,Uda kishanganj
+2022-10,91.0,Safe,Uda kishanganj
+2022-11,0.0,Safe,Uda kishanganj
+2022-12,0.0,Safe,Uda kishanganj
+2023-01,0.0,Safe,Uda kishanganj
+2023-02,0.0,Safe,Uda kishanganj
+2023-03,0.0,Safe,Uda kishanganj
+2023-04,0.0,Safe,Uda kishanganj
+2023-05,0.5,Safe,Uda kishanganj
+2023-06,2.5,Safe,Uda kishanganj
+2023-07,0.0,Safe,Uda kishanganj
+2023-08,2.5,Safe,Uda kishanganj
+2023-09,2.5,Safe,Uda kishanganj
+2023-10,0.0,Safe,Uda kishanganj
+2023-11,0.0,Safe,Uda kishanganj
+2023-12,0.0,Safe,Uda kishanganj
+2024-01,0.0,Safe,Uda kishanganj
+2024-02,0.0,Safe,Uda kishanganj
+2024-03,0.0,Safe,Uda kishanganj
+2024-04,0.0,Safe,Uda kishanganj
+2024-05,0.0,Safe,Uda kishanganj
+2024-06,11.0,Safe,Uda kishanganj
+2024-07,0.0,Safe,Uda kishanganj
+2024-08,11.0,Safe,Uda kishanganj
+2024-09,1.5,Safe,Uda kishanganj
+2024-10,0.0,Safe,Uda kishanganj
