@@ -58,7 +58,7 @@ npm start
 
 View the full report with technical details:
 
-> 📓 [Click to View Report](./doca/Mini_Project_Report.pdf)
+> 📓 [Click to View Report](./docs/Mini_Project_Report.pdf)
 
 
 ---
